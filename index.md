@@ -16,7 +16,7 @@ We also want to avoid anything too adventurous, because that usually means it's 
 
 Usually B2B, i.e. high-touch with a long sales pipeline. Most of your money would come by nurturing leads through calls. Expect a full calendar, with lots of meetings. 
 
-The main metrics (Main Things) in SaaS are LTV, CAC, churn|Churn Rate, and also potentially MAU/DAU
+The main metrics (Main Things) in SaaS are LTV, CAC, Churn Rate, and also potentially MAU/DAU
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px">
 	<div>
